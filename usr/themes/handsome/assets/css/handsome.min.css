@@ -8013,7 +8013,7 @@ form button.active>span {
     border: none!important
 }
 
-#post-content .table-responsive,#post-content blockquote,#post-content ol,#post-content ul {
+#post-content .table-responsive,#post-content blockquote,#post-content ol,#post-content pre,#post-content ul {
     margin: 1.5em 0
 }
 
